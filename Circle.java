@@ -21,10 +21,10 @@ public class Circle
      */
     public Circle()
     {
-        diameter = 68;
-        xPosition = 230;
-        yPosition = 90;
-        color = "blue";
+        diameter = 67;
+        xPosition = 330;
+        yPosition = 50;
+        color = "yellow";
     }
 
     /**
